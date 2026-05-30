@@ -1,2 +1,2 @@
 # sumador-interactivo
-es una pagina para multiplicar de forma sencilla
+es una pagina para sumar de forma sencilla
